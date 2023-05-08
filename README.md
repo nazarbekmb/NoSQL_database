@@ -18,7 +18,7 @@ git clone https://github.com/nazarbekmb/NoSQL_database.git
 ```
 2. Run the program by executing the CRUD.py file using the command
 ```console
-python mainv.py
+python main.py
 ```
 
 ## Usage
